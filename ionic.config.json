@@ -1,0 +1,7 @@
+{
+  "name": "pr-two",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
